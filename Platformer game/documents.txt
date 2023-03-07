@@ -1,0 +1,18 @@
+The first extension I tried to make is to create platforms. Creating platforms meant that I
+made platforms that allows the character to jump on or move around other than the ground.
+In order to make the users use the platforms, I have placed collectables on some of them or
+offer them to use platforms as alternatives of crossing the canyons instead of jumping over.
+The part I found difficult about creating platforms was learning how to use the factory pattern.
+As I had a hard time grasping the concept of methods, the factory pattern took me some time to understand
+and adapt it to my code. From implementing this extension, it really made me research and understand
+how to use the factory patterns in depth and how useful especially when we want to create multiple of the same object.
+
+The second extension I tried to make is to create enemies. Creating enemies means that if
+the player come into contact, they will lose a life. I managed to make use of platforms
+to give them an alternative to avoid the enemies. However, I also made use of the way we
+learnt how to draw collectables to give the users the ability to kill these enemies. In order
+to incentivise them to kill the enemies as well, I gave them points if they managed to kill
+the enemies. The part I found difficult about creating enemies was learning how to use constructor
+functions. Since I had problems understanding methods, constructor functions also baffled me
+when I was learning how to implement it. From implementing this extension, I learnt how to implement constructor
+functions and learnt how versatile it is if we want to create multiple of the same object.
